@@ -1,6 +1,6 @@
 class Sponsorship < ActiveRecord::Base
 
-  belongs_to :sponsor
   belongs_to :tribute
+  belongs_to :sponsor
 
 end

@@ -1,5 +1,5 @@
 class Sponsor < Citizen
   
-  has_many :tributes, :through => :sponsorships
+  has_many :sponsorships
 
 end
