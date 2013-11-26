@@ -3,7 +3,7 @@ development:
   encoding: unicode
   database: hunger_development
   pool: 5
-  username: bradpuder
+  username: evobersi
   password:
 
 test:
@@ -11,7 +11,7 @@ test:
   encoding: unicode
   database: hunger_test
   pool: 5
-  username: bradpuder
+  username: evobersi
   password:
 
 production:
